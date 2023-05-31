@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-31T03:40:00" hostname="FRESH-PC" time="0.036">
+  <properties/>
+  <testcase name="Test1()" classname="SILab2Test" time="0.027"/>
+  <testcase name="Test2()" classname="SILab2Test" time="0.001"/>
+  <testcase name="Test3_valid()" classname="SILab2Test" time="0.001"/>
+  <testcase name="ExceptionTest()" classname="SILab2Test" time="0.002"/>
+  <testcase name="multipleConditionTest()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
